@@ -1,4 +1,4 @@
-# 🦖 Dino Jump Game
+# 🦖 Dragon World
 
 A simple browser-based game where you control a dinosaur that jumps over obstacles. Built using HTML, CSS, and JavaScript — inspired by the classic Chrome Dino game.
 
