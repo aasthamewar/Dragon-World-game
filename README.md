@@ -34,4 +34,13 @@ A simple browser-based game where you control a dinosaur that jumps over obstacl
 │ ├── gameover.mp3
 │ └── music.mp3
 
+
+📦 Technologies Used
+HTML5
+
+CSS3 (animations)
+
+JavaScript (Vanilla)
+
+
 Here is the game http://127.0.0.1:5500/index.html
