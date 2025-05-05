@@ -2,9 +2,6 @@
 
 A simple browser-based game where you control a dinosaur that jumps over obstacles. Built using HTML, CSS, and JavaScript — inspired by the classic Chrome Dino game.
 
-![Dino Jump Demo](./preview.gif) <!-- Optional: Replace with your own GIF or image -->
-
----
 
 ## 🚀 Features
 
